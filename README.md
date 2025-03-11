@@ -4,7 +4,7 @@
 
 # download：2025.3.10
 
-https://raw.githubusercontent.com/kuaihou2012/gamesense.mm.legit/refs/heads/main/cfg
+https://ghproxy.net/https://raw.githubusercontent.com/kuaihou2012/gamesense.mm.legit/main/cfg
 
 
 
