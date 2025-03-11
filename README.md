@@ -4,7 +4,7 @@
 
 # download：2025.3.10
 
-https://fastly.jsdelivr.net/gh/kuaihou2012/gamesense.mm.legit@main/cfg
+https://raw.githubusercontent.com/kuaihou2012/gamesense.mm.legit/refs/heads/main/cfg
 
 
 
