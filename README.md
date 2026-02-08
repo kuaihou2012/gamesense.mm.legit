@@ -2,7 +2,7 @@
 
 
 
-# download：0026.2.8
+# download：2026.2.8
 
 https://ghproxy.net/https://raw.githubusercontent.com/kuaihou2012/gamesense.mm.legit/main/cfg
 
