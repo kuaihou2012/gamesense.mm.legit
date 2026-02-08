@@ -10,7 +10,7 @@ https://ghproxy.net/https://raw.githubusercontent.com/kuaihou2012/gamesense.mm.l
 
 # toggle:
 
-M5 扳机
+M5 扳机(风险，必要时使用)
 
 X  第三人称 
 
